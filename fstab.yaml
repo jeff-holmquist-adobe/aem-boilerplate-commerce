@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/FieldEngineeringDocumentBasedDemo/Shared%20Documents/sites/boilerplate-commerce
 
 folders:
   /products/: /products/default
